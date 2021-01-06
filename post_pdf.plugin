@@ -1,0 +1,8 @@
+[Core]
+Name = post_pdf
+Module = post_pdf
+
+[Documentation]
+Author = Cameron Devine
+Version = 0.0.0
+Description = A Nikola plugin for generating PDF versions of posts with Pandoc.

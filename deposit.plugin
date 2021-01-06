@@ -1,0 +1,11 @@
+[Core]
+Name = deposit
+Module = deposit
+
+[Documentation]
+Author = Cameron Devine
+Version = 0.0.0
+Description = A Nikola plugin to deposit PDF files to Zenodo.
+
+[Nikola]
+PluginCategory = Command
